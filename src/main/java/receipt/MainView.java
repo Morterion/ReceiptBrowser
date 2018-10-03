@@ -1,4 +1,4 @@
-package fi.utu.kaalpi;
+package main.java.receipt;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.notification.Notification;
