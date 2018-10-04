@@ -1,4 +1,4 @@
-package main.java.receipt;
+package receipt;
 
 import com.vaadin.flow.component.button.Button;
 import com.vaadin.flow.component.notification.Notification;
